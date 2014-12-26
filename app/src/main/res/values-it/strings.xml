@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="perm">Questo permesso è necessario per bloccare lo schermo.</string>
+    <string name="acc_grant">Permesso di amministratore accettato.</string>
+    <string name="acc_rem">Permesso di amministratore revocato. Adesso puoi disinstallare l\'app</string>
+    <string name="cred">App creata da DAVIDE MAG.</string>
+    <string name="hi">Arrivederci!</string>
+    <string name="notenabled">Prima di tutto abilitare i privilegi di amministratore</string>
+    <string name="tks">Grazie a <a href="https://github.com/Decad3nce">Decad3nce</a> per la sua app (<a href="https://github.com/Decad3nce/Aegis">Aegis</a>) la quale mi ha aiutato a creare questa app</string>
+
+</resources>
